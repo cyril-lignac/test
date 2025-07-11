@@ -1,3 +1,4 @@
 [submodule "fuckyou"]
 	path = fuckyou
 	url = git@github.com:cyril-lignac/fuckyou.git
+	update = rebase
